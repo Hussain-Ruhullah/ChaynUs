@@ -9,7 +9,7 @@ import Content from './components/Content';
  */
 const App = () => (
     <div>
-        <Intro/>
+        <Intro title='hallo' des/>
         <Content/>
     </div>
 );
